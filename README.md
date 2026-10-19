@@ -32,29 +32,34 @@
 
 ---
 
-<details open>
-<summary><b>🤖 Engineering Interests</b></summary>
+### 🤖 Engineering Interests & 🎯 My Focus
 
-- 🦾 Robotics & Autonomous Systems
-- 🧠 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision
-- ⚙️ Control Systems & Industrial Automation
-- 🔌 Embedded Systems & IoT
-- ☁️ Cloud-Connected Intelligent Systems
-
-</details>
-
-<details open>
-<summary><b>🎯 My Focus</b></summary>
-
-- 💻 Strengthening Programming Foundations
-- 🧪 Building Practical Engineering Projects
-- 📊 Learning Data Science & AI/ML
-- 🔧 Experimenting, Testing & Problem-Solving
-- 📚 Continuous Technical Development
-- 🚀 Building a Professional Engineering Portfolio
-
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Engineering Interests</h3>
+      <ul>
+        <li>🦾 Robotics & Autonomous Systems</li>
+        <li>🧠 Artificial Intelligence & Machine Learning</li>
+        <li>👁️ Computer Vision</li>
+        <li>⚙️ Control Systems & Industrial Automation</li>
+        <li>🔌 Embedded Systems & IoT</li>
+        <li>☁️ Cloud-Connected Intelligent Systems</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 My Focus</h3>
+      <ul>
+        <li>💻 Strengthening Programming Foundations</li>
+        <li>🧪 Building Practical Engineering Projects</li>
+        <li>📊 Learning Data Science & AI/ML</li>
+        <li>🔧 Experimenting, Testing & Problem-Solving</li>
+        <li>📚 Continuous Technical Development</li>
+        <li>🚀 Creating a Professional Engineering Portfolio</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
