@@ -32,15 +32,34 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Mechatronics and Robotics Engineering graduate with Upper Second Class Honours (2:1)**, passionate about robotics, intelligent systems, and emerging technologies.
-
-My goal is to become a **Robotics and AI Engineer**, building intelligent systems that integrate mechanical engineering, electronics, embedded systems, software, and artificial intelligence to solve real-world problems.
+### 🤖 Engineering Interests & 🎯 My Focus
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Engineering Interests</h3>
+      <ul>
+        <li>🦾 Robotics & Autonomous Systems</li>
+        <li>🧠 Artificial Intelligence & Machine Learning</li>
+        <li>👁️ Computer Vision</li>
+        <li>⚙️ Control Systems & Industrial Automation</li>
+        <li>🔌 Embedded Systems & IoT</li>
+        <li>☁️ Cloud-Connected Intelligent Systems</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 My Focus</h3>
+      <ul>
+        <li>💻 Strengthening Programming Foundations</li>
+        <li>🧪 Building Practical Engineering Projects</li>
+        <li>📊 Learning Data Science & AI/ML</li>
+        <li>🔧 Experimenting, Testing & Problem-Solving</li>
+        <li>📚 Continuous Technical Development</li>
+        <li>🚀 Creating a Professional Engineering Portfolio</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### 🤖 Engineering Interests
 
