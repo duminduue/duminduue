@@ -146,15 +146,19 @@ These are future development directions; individual projects will be linked here
 
 </div>
 
+
 ## 🟩 Contribution Activity
 
-<div align="center">
+My coding journey, project updates, and contributions are tracked on GitHub.
 
-[![Dumindu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duminduue&theme=tokyo-night&hide_border=true)](https://github.com/duminduue)
+[![GitHub Profile](https://img.shields.io/badge/View-GitHub%20Contributions-181717?style=for-the-badge&logo=github)](https://github.com/duminduue)
 
-</div>
+Check my contribution calendar directly on my GitHub profile.
 
-*Statistics and external widgets depend on the availability of their providers and the public data returned for this account.*
+---
+
+*I focus on consistent learning, meaningful commits, and building practical engineering projects.*
+
 
 ---
 
