@@ -1,204 +1,69 @@
-# 👋 Hey there, I'm Dumindu Udakara Ekanayaka
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:071526,50:075985,100:06b6d4&text=DUMINDU%20UDAKARA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MECHATRONICS%20%7C%20ROBOTICS%20%7C%20AI&descAlignY=60&animation=fadeIn" width="100%" alt="Animated blue technology banner" />
 
-### 🤖 Mechatronics & Robotics Engineering Graduate | Aspiring Robotics & AI Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Aspiring+Robotics+%26+AI+Engineer;Exploring+Intelligent+Automation;Building+Practical+Engineering+Projects" alt="Animated career tagline" />
 
-**Building intelligent systems at the intersection of Robotics, Artificial Intelligence, and Engineering.**
+**BEng (Hons) Mechatronics & Robotics Engineering · Upper Second Class Honours (2:1)**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Robotics+%26+AI+Engineer+in+the+Making;Exploring+Machine+Learning+%26+Computer+Vision;Interested+in+IoT+%26+Industrial+Automation;Turning+Engineering+Ideas+into+Projects" alt="Animated typing introduction" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-duminduue-181717?style=for-the-badge&logo=github)](https://github.com/duminduue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Engineering](https://img.shields.io/badge/Field-Mechatronics%20%26%20Robotics-00BCD4?style=for-the-badge)](https://github.com/duminduue)
+[GitHub](https://github.com/duminduue) · [My Projects](https://github.com/duminduue?tab=repositories) · [LinkedIn](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I am a **BEng (Hons) Mechatronics and Robotics Engineering graduate with Upper Second Class Honours (2:1)**, passionate about robotics, intelligent systems, and emerging engineering technologies.
+Mechatronics and Robotics Engineering graduate passionate about **intelligent systems, robotics, and AI-powered engineering**.
 
-My long-term career ambition is to become a **Robotics and AI Engineer**, developing intelligent systems that combine robotics, machine learning, computer vision, embedded systems, and cloud technologies to solve real-world engineering challenges.
+- 🤖 **Goal:** Become a Robotics and AI Engineer
+- 🧠 **Interests:** AI/ML, computer vision, autonomous robotics
+- ⚙️ **Engineering:** Embedded systems, control, industrial automation
+- 🌐 **Exploring:** IoT, cloud computing, and data science
+- 🚀 **Approach:** Learn, build, test, and improve.
 
-- 🎓 **Education:** BEng (Hons) Mechatronics and Robotics Engineering — Upper Second Class Honours (2:1)
-- 🤖 **Career Goal:** Robotics and AI Engineering
-- 🧠 **Interests:** Artificial Intelligence, Machine Learning, and Computer Vision
-- ⚙️ **Engineering Focus:** Robotics, Control Systems, and Industrial Automation
-- 🌐 **Exploring:** Cloud Computing, IoT, and Data Science
-- 🚀 **Approach:** Continuous learning, practical projects, experimentation, and problem-solving
-
-I aim to build a portfolio of well-documented engineering projects that demonstrate the integration of mechanical systems, electronics, software, and intelligent technologies.
-
----
-
-## 🎯 My Career Vision
-
-My vision is to create **intelligent, connected, and autonomous engineering systems**.
-
-I am particularly interested in:
-
-- Autonomous robotics and robot navigation
-- AI-powered automation and intelligent control
-- Computer vision for robotic applications
-- Embedded systems and sensor integration
-- Predictive maintenance and industrial intelligence
-- Cloud-connected robotics and Internet of Things
-- Data-driven engineering and machine learning
-
-My development journey focuses on building strong software foundations first, then progressively integrating AI, robotics, embedded technologies, and cloud systems through practical projects.
-
----
-
-## 📚 Currently Learning & Exploring
+### 🧰 Tech Stack & Interests
 
 <div align="center">
 
-| Area | Learning Direction |
-|:--|:--|
-| 💻 Programming | Python, software engineering, and clean code |
-| 🤖 Robotics | Robot kinematics, control systems, and ROS 2 |
-| 🧠 AI & ML | Machine learning, model evaluation, and computer vision |
-| 🔌 Embedded Systems | Microcontrollers, sensors, and actuator integration |
-| 🏭 Automation | Industrial systems, monitoring, and predictive maintenance |
-| ☁️ Cloud & IoT | Connected devices, telemetry, and cloud integration |
-| 📊 Data Science | Data analysis, visualization, and engineering insights |
-| 🛠️ Development | Git, GitHub, testing, documentation, and deployment |
+<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,raspberrypi,opencv,linux,git,github,vscode&theme=dark" alt="Programming and engineering technology icons" />
 
 </div>
 
-*These are my learning interests and development directions, not a claim of professional proficiency in every technology.*
+**Exploring:** ROS 2 · Machine Learning · Computer Vision · Embedded Systems · Cloud · IoT
 
----
+### 🚀 Featured Project
 
-## 🧰 Languages & Tools
+#### ⚙️ Industrial Engineering Calculator
 
-### Programming & Software
+A Python and Streamlit application for engineering calculations, unit conversions, educational explanations, and calculation history.
 
-<div align="center">
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-00BCD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duminduue/industrial-engineering-calculator)
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,git,github,vscode&theme=dark" alt="Programming and development tools" />
-
-</div>
-
-### Robotics, AI & Engineering
+### 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,linux,docker&theme=dark" alt="Robotics and engineering technologies" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=duminduue&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-</div>
-
-**Areas of interest:** ROS 2 · Machine Learning · Computer Vision · Embedded Systems · IoT · Control Systems · Industrial Automation · Cloud Computing
-
-*The icons above represent technologies relevant to my development journey; they do not imply equal experience with every tool.*
-
----
-
-## 🚀 Featured Projects
-
-### ⚙️ Industrial Engineering Calculator
-
-**Python · Streamlit · SQLite · Pytest**
-
-An educational engineering calculator designed to bring engineering formulas, unit conversions, calculation history, and learning explanations into one application.
-
-- Engineering formula library
-- Interactive calculation interface
-- Compatible engineering unit conversions
-- Calculation history and CSV export
-- Automated tests and code quality checks
-- Educational solution features under development
-
-[![View Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/duminduue/industrial-engineering-calculator)
-
-### 🤖 Future Robotics & AI Projects
-
-My planned portfolio will progressively explore:
-
-- Autonomous robot navigation
-- Computer vision for robotics
-- Sensor data analysis and intelligent monitoring
-- Predictive maintenance using machine learning
-- IoT-enabled engineering dashboards
-- AI-assisted engineering tools
-
-These are future development directions; individual projects will be linked here as they are implemented and documented.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=duminduue&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duminduue&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duminduue&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=duminduue&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
+### 🎯 Future Goals
 
-## 🟩 Contribution Activity
-
-My coding journey, project updates, and contributions are tracked on GitHub.
-
-[![GitHub Profile](https://img.shields.io/badge/View-GitHub%20Contributions-181717?style=for-the-badge&logo=github)](https://github.com/duminduue)
-
-Check my contribution calendar directly on my GitHub profile.
+- Build robotics and embedded systems projects.
+- Apply AI and computer vision to real-world engineering.
+- Explore autonomous systems and intelligent automation.
+- Develop and document practical engineering solutions.
 
 ---
-
-*I focus on consistent learning, meaningful commits, and building practical engineering projects.*
-
-
----
-
-## 🛣️ My Development Roadmap
-
-- [x] Establish my engineering calculator project on GitHub
-- [x] Introduce a structured Python project and automated tests
-- [x] Build a Streamlit-based engineering application
-- [ ] Expand engineering formulas and validate unit conversions
-- [ ] Improve educational calculation explanations
-- [ ] Build practical Python and data analysis projects
-- [ ] Develop robotics and embedded systems projects
-- [ ] Explore machine learning and computer vision applications
-- [ ] Integrate sensors, IoT, and intelligent automation
-- [ ] Develop and document an AI-enabled robotics project
-- [ ] Deploy selected projects and publish demonstrations
-
----
-
-## 🤝 What I Bring to a Team
-
-- An engineering mindset focused on understanding how systems work
-- Interest in integrating mechanical, electronic, and software components
-- A commitment to continuous learning and technical improvement
-- A practical approach to experimentation, testing, and problem-solving
-- Motivation to document projects and share engineering knowledge
-- A long-term focus on robotics, AI, and intelligent automation
-
----
-
-## 📫 Connect With Me
 
 <div align="center">
 
-I'm interested in connecting with engineers, developers, researchers, and technology enthusiasts working in robotics, AI, automation, and emerging engineering technologies.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/duminduue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-
-### 💡 Engineering + Intelligence + Innovation
+**⚡ ENGINEERING × INTELLIGENCE × INNOVATION**
 
 *Learning continuously. Building practically. Engineering intelligently.*
 
