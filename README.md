@@ -44,27 +44,6 @@ I'm a **Mechatronics and Robotics Engineering graduate** passionate about intell
 
 ---
 
-## 🚀 Featured Project
-
-### ⚙️ Industrial Engineering Calculator
-
-**Python · Streamlit · SQLite · Pytest**
-
-An educational engineering application designed to simplify engineering calculations and learning.
-
-- 📐 Engineering formula library
-- 🔄 Compatible unit conversions
-- 📚 Educational calculation explanations
-- 🗂️ Calculation history and CSV export
-- 🧪 Automated testing and code quality checks
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-00BCD4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duminduue/industrial-engineering-calculator)
-
-</div>
-
-
 ## 🚀 Featured Engineering Projects
 
 <div align="center">
