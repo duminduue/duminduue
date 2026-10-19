@@ -64,18 +64,44 @@ An educational engineering application designed to simplify engineering calculat
 
 </div>
 
-## 🤖 Future Project Directions
+
+## 🚀 Featured Engineering Projects
+
+<div align="center">
+
+| Project | Technologies | Status |
+|:--|:--|:--|
+| 🤖 Self-Balancing Mobile Robot | ESP32, MPU6050, PID, Encoders | Completed |
+| ❤️ IoT Health Monitoring System | ESP32, Sensors, Blynk IoT | Completed |
+| ⚙️ Industrial Engineering Calculator | Python, Streamlit, SQLite, Pytest | In Progress |
+
+</div>
+
+### 🤖 Self-Balancing Mobile Robot
+
+Developed a two-wheel balancing robot using IMU sensing and PID control, with encoder feedback, wireless control, chassis design, and stability testing.
+
+### ❤️ IoT-Based Health Monitoring System
+
+Developed an ESP32-based monitoring system integrating health and environmental sensors, LCD display, and Blynk IoT wireless monitoring.
+
+### ⚙️ Industrial Engineering Calculator
+
+Building an educational engineering application featuring formula calculations, compatible unit conversions, calculation history, CSV export, and automated tests.
+
+[![View Repository](https://img.shields.io/badge/View-Industrial%20Engineering%20Calculator-0891b2?style=for-the-badge&logo=github)](https://github.com/duminduue/industrial-engineering-calculator)
+
+### 🔭 Future Development
 
 - 🦾 Autonomous robotics and navigation
-- 👁️ Computer vision for robotic applications
-- 🧠 AI-powered engineering and automation
-- 📡 IoT-based monitoring systems
-- 🏭 Predictive maintenance using machine learning
-- ☁️ Cloud-connected intelligent systems
+- 🧠 Machine learning and computer vision
+- 🏭 AI-powered industrial automation
+- ☁️ IoT and cloud-connected engineering systems
 
-*These are planned areas of development; projects will be linked as they are completed.*
+*Future directions will be added as projects are implemented and documented.*
 
 ---
+
 
 ## 📊 GitHub Statistics
 
