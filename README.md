@@ -10,7 +10,11 @@
 
 ### 🎓 BEng (Hons) Mechatronics & Robotics Engineering
 
-**First Class Honours**
+<div align="center">
+
+<h2>🏆 FIRST CLASS HONOURS</h2>
+
+</div>
 
 <br/>
 
