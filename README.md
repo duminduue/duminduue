@@ -10,7 +10,7 @@
 
 ### 🎓 BEng (Hons) Mechatronics & Robotics Engineering
 
-**Upper Second Class Honours (2:1)**
+**First Class Honours | Overall Mark: 72.75%**
 
 <br/>
 
