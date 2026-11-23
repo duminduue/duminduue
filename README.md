@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/dumindu-ekanayaka/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://robotics-portfolio-wine.vercel.app/">
+<a href="https://dumindu-portfolio-eta.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -338,7 +338,7 @@ I'm interested in connecting with engineers, developers, researchers, and techno
 <a href="https://www.linkedin.com/in/dumindu-ekanayaka/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://robotics-portfolio-wine.vercel.app/">
+<a href="https://dumindu-portfolio-eta.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
